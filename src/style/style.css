@@ -1,0 +1,58 @@
+/* clear */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+li,
+p,
+input,
+a,
+span,
+b,
+i{
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+b{
+  font-weight: normal;
+}
+ul,
+ol,
+li{
+  list-style: none;
+}
+i{
+  font-style: normal;
+}
+a{
+  color: #2e3135;
+  text-decoration: none;
+}
+
+html,
+body,
+#root{
+  color: #2e3135;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f2f5;
+}
+
+/* 全局样式 */
+.hover-no-style:hover{
+  background: #fff !important;
+  cursor: no-drop;
+}

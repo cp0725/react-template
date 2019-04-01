@@ -1,0 +1,1 @@
+export const SET_FOLD_STATUS = 'nav/SET_FOLD_STATUS'
